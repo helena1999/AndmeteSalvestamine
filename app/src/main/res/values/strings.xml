@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndmeteSalvestamine</string>
+    <string name="info">Faili lugemine ja salvestamine sisemälust</string>
+    <string name="sisu">Kirjuta siia midagi</string>
+    <string name="andmed">Salvesta andmed</string>
+    <string name="kuva">Kuva andmed</string>
+    <string name="edasi">Edasi</string>
+</resources>
